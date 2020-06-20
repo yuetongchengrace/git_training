@@ -4,3 +4,4 @@ Some more change for change_alice branc
 Testing rebase with add_patrick branch
 Change from another dev environment.
 More change to Alice for testing pull conflict
+Changing for interactive rebase test,and here's more change to make things interesting
