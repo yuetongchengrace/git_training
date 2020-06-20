@@ -3,3 +3,4 @@ Some change for change_alice branch
 Some more change for change_alice branc
 Testing rebase with add_patrick branch
 Change from another dev environment.
+More change to Alice for testing pull conflict
