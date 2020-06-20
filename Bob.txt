@@ -1,1 +1,2 @@
 Hi!! I'm Bob. I'm new here.
+Change in Bob for merging divergent branches
